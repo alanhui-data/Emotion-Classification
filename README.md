@@ -1,6 +1,11 @@
 # Emotion-Classification
 Realtime Emotion Detection Using mini-Xception and AlexNet
 
+Detailed paper refers to Emotion Classificaion Paper.pdf
+
+Presentation refers to https://www.youtube.com/watch?v=czQRlDtDZs0
+
+
 ## ABSTRACT
 Facial emotion recognition (FER) is a popular topic in the computer vision and artificial intelligence areas because of their significant academic and commercial potential. Although facial emotion recognition can be conducted by many methods including multiple sensors, devices and different machine learning algorithms, our project is focusing on applying convolutional neural network (CNN) to process facial emotion recognition from real time video or images and employ a 5-fold cross-validation to evaluate different CNN models with their precision and recall. In our work, we trained and compared two different models, Mini- Xception Model and Alexnet Model, using images from Kaggle facial expression challenge in 2013 [6], and ultimately achieving an accuracy of 75.7% in a seven emotion categories classification test.
 
